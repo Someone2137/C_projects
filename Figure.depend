@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1720799065 source:c:\users\marty\onedrive\pulpit\programowanie\figure\figure.cpp
+	"Figure.h"
+
+1720803203 c:\users\marty\onedrive\pulpit\programowanie\figure\figure.h
+
+1721127852 source:c:\users\marty\onedrive\pulpit\programowanie\figure\rectangle.cpp
+	"Rectangle.h"
+
+1720810938 c:\users\marty\onedrive\pulpit\programowanie\figure\rectangle.h
+	"Figure.h"
+
+1721128039 source:c:\users\marty\onedrive\pulpit\programowanie\figure\main.cpp
+	<iostream>
+	<vector>
+	"Figure.h"
+	"Rectangle.h"
+	"Triangle.h"
+	"Circle.h"
+	"FigureSet.h"
+
+1721127878 source:c:\users\marty\onedrive\pulpit\programowanie\figure\triangle.cpp
+	"Triangle.h"
+	<cmath>
+
+1720803499 c:\users\marty\onedrive\pulpit\programowanie\figure\triangle.h
+	"Figure.h"
+
+1720803714 source:c:\users\marty\onedrive\pulpit\programowanie\figure\circle.cpp
+	"Circle.h"
+
+1720803665 c:\users\marty\onedrive\pulpit\programowanie\figure\circle.h
+	"Figure.h"
+
+1720811413 source:c:\users\marty\onedrive\pulpit\programowanie\figure\figureset.cpp
+	"FigureSet.h"
+
+1720811379 c:\users\marty\onedrive\pulpit\programowanie\figure\figureset.h
+	<vector>
+	<stdexcept>
+	"Figure.h"
+
