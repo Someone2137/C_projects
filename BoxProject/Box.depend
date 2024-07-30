@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1721819149 source:c:\users\marty\onedrive\pulpit\programowanie\box\box.cpp
+	"Box.h"
+
+1721819149 c:\users\marty\onedrive\pulpit\programowanie\box\box.h
+	<string>
+
+1721810218 source:c:\users\marty\onedrive\pulpit\programowanie\box\brickbox.cpp
+	"BrickBox.h"
+
+1721810197 c:\users\marty\onedrive\pulpit\programowanie\box\brickbox.h
+	"Box.h"
+
+1721816712 source:c:\users\marty\onedrive\pulpit\programowanie\box\bubblebox.cpp
+	"BubbleBox.h"
+
+1721810502 c:\users\marty\onedrive\pulpit\programowanie\box\bubblebox.h
+	"Box.h"
+
+1721810979 source:c:\users\marty\onedrive\pulpit\programowanie\box\tubebox.cpp
+	"TubeBox.h"
+
+1721810380 c:\users\marty\onedrive\pulpit\programowanie\box\tubebox.h
+	"Box.h"
+
+1721821059 source:c:\users\marty\onedrive\pulpit\programowanie\box\main.cpp
+	<iostream>
+	"Box.h"
+	"BrickBox.h"
+	"TubeBox.h"
+	"BubbleBox.h"
+	"Store.h"
+
+1721820261 c:\users\marty\onedrive\pulpit\programowanie\box\store.h
+	<string>
+	<vector>
+	<stdexcept>
+	<iomanip>
+	<sstream>
+	"Box.h"
+	"BrickBox.h"
+	"TubeBox.h"
+	"BubbleBox.h"
+
+1721821048 source:c:\users\marty\onedrive\pulpit\programowanie\box\store.cpp
+	"Store.h"
+
